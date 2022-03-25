@@ -1,3 +1,14 @@
 body{
     background-color: aqua;
 }
+
+
+.contenido{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 50rem;
+    height: 20rem;
+    background-color: white;
+    margin: 3rem auto ;
+    
+
+}
