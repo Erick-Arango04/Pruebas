@@ -2,6 +2,13 @@ body{
     background-color: aqua;
 }
 
+#header{
+    width: 100vw;
+    height: 4rem;
+    background-color: blue;
+    padding: 1rem;
+    text-align: center;
+}
 
 .contenido{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
